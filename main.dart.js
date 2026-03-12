@@ -83590,7 +83590,7 @@ A.aeI.prototype={}
 A.aeJ.prototype={}
 A.GO.prototype={
 L(a){var s=null,r=t.b
-return new A.yr(B.Aa,"Auditor de Acero",A.tS(s,A.atT(B.a6,s,B.cc,B.e3,B.cc,B.mH),B.Fd,new A.hE(new A.bu(new A.YF(),r),new A.bu(new A.YG(),r),s,s,s,s,s,s,s,s),!0),!1,s)}}
+return new A.yr(B.Aa,"Auditor de Varillas",A.tS(s,A.atT(B.a6,s,B.cc,B.e3,B.cc,B.mH),B.Fd,new A.hE(new A.bu(new A.YF(),r),new A.bu(new A.YG(),r),s,s,s,s,s,s,s,s),!0),!1,s)}}
 A.YF.prototype={
 $1(a){return a.q(0,B.O)?B.cc:B.ki},
 $S:6}
@@ -83646,7 +83646,7 @@ J.cJ(j,["By GenIO"])
 b=B.BN.fc(j)
 a="Auditoria_"+A.aql("yyyyMMdd_HHmm").kP(new A.em(Date.now(),0,!1))+".cvs"
 s=7
-return A.a_(A.art(b,a,new A.afX(l),"Reporte de Acero - "+A.k(k)),$async$vv)
+return A.a_(A.art(b,a,new A.afX(l),"Reporte de Varillas - "+A.k(k)),$async$vv)
 case 7:n.push(6)
 s=5
 break
@@ -89571,7 +89571,7 @@ B.Ui=new A.dA(B.S5,B.R1,B.S6,B.Sy,B.QJ,B.QR,B.Rl,B.St,B.Ry,B.SV,B.Qd,B.Qv,B.SS,B
 B.Uj=new A.kR("REDONDEO: 0.5\u2193 0.6\u2191",null,B.zo,null,null,null,null,null,null)
 B.Sm=new A.m(!0,null,null,null,null,null,10,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.Uk=new A.kR("kg",null,B.Sm,null,null,null,null,null,null)
-B.Ul=new A.kR("Auditor de Factura",null,null,null,null,null,null,null,null)
+B.Ul=new A.kR("Auditor de Varillas",null,null,null,null,null,null,null,null)
 B.XF=new A.aej(0,"system")
 B.L5=new A.j(0.056,0.024)
 B.Lj=new A.j(0.108,0.3085)
